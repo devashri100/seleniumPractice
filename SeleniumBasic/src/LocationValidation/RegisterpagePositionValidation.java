@@ -23,7 +23,7 @@ public class RegisterpagePositionValidation {
 		driver.get("https://demo.automationtesting.in/Register.html");
 		
 		
-		
+		driver.close();
 
 	}
 
